@@ -1,0 +1,60 @@
+.menu{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(124, 236, 240);
+    font-size: 20px;
+
+    
+}
+
+#name{
+
+    font-size: 50px;
+    font-weight: 400;
+
+}
+
+
+.bodyimg{
+
+    border-radius: 10px;
+    font-size: 18px;
+    font-family: cursive;
+    text-align:initial;
+    color:steelblue;
+    background-color:rgb(236, 221, 221);
+    padding: 10px;
+    margin-top:25px;
+    margin-bottom:10px;
+
+}
+.bodyimg h2{
+    text-align: center;
+    margin-right: 60px;
+}
+
+.camel{
+
+    margin-right: 960px;
+    background-color: cornflowerblue;
+    border-radius: 14px;
+    padding: 15px;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size:17px;
+    
+    
+}
+
+.camel img{
+    padding: 20px;
+}
+.head{
+
+    text-align: center;
+    margin:10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:18px;
+    color:rebeccapurple;
+}
